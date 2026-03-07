@@ -37,15 +37,26 @@ I'm currently enrolled in the **Information Technology Institute (ITI)** 9-month
 <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" /></a>
 
 ### **Embedded Systems**
-<a href="https://www.cprogramming.com/" title="C"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" /></a>
-<a href="https://www.cplusplus.com/" title="C++"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /></a>
-<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" title="STM32"><img src="https://brandslogos.com/wp-content/uploads/images/large/stmicroelectronics-logo.png" width="40" height="40" /></a>
-<a href="https://www.espressif.com/en/products/socs/esp32" title="ESP32"><img src="https://raw.githubusercontent.com/espressif/arduino-esp32/master/docs/esp32.png" width="40" height="40" /></a>
+<a href="https://www.cprogramming.com/" title="C">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" />
+</a>
+<a href="https://www.cplusplus.com/" title="C++">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
+</a>
+<a href="https://www.arduino.cc/" title="Arduino">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" />
+</a>
+<a href="https://www.arm.com/" title="ARM Cortex">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Arm_logo_blue_150LG.svg" width="40" height="40" />
+</a>
+<a href="https://www.st.com/" title="STM32">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/STMicroelectronics_logo.svg/2560px-STMicroelectronics_logo.svg.png" width="80" height="40" />
+</a>
+<a href="https://www.espressif.com/" title="ESP32">
+  <img src="https://avatars.githubusercontent.com/u/9460735?s=200&v=4" width="40" height="40" />
+</a>
 
-### **AI & Generative Tools**
-<a href="https://openai.com/chatgpt" title="ChatGPT"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40" height="40" /></a>
-<a href="https://claude.ai/" title="Claude AI"><img src="https://pbs.twimg.com/media/GXUipTkWcAAoQKt?format=jpg&name=large" width="40" height="40" /></a>
-<a href="https://gemini.google.com/" title="Google Gemini"><img src="https://www.gstatic.com/lamda/images/gemini_favicon_f069958c85030456e93de685481c559f160ea06b.png" width="40" height="40" /></a>
+
 
 ### **Development Tools**
 <a href="https://git-scm.com/" title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" /></a>
@@ -155,10 +166,7 @@ System Architecture    ███████████████░░░░
 ## 📞 **Get In Touch**
 
 📧 **Email:** karim.ayman.kemo@gmail.com  
-📱 **Phone:** +20 120 598 5612  
-📍 **Location:** Cairo, Egypt  
 💼 **LinkedIn:** [linkedin.com/in/karim-ayman](https://linkedin.com/in/karim-ayman)  
-🐙 **GitHub:** [github.com/KarimElmliegy](https://github.com/KarimElmliegy)
 
 ---
 
