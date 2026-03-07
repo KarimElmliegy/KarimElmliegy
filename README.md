@@ -37,25 +37,31 @@ I'm currently enrolled in the **Information Technology Institute (ITI)** 9-month
 <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" /></a>
 
 ### **Embedded Systems**
-<a href="https://www.cprogramming.com/" title="C">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" />
-</a>
-<a href="https://www.cplusplus.com/" title="C++">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
-</a>
-<a href="https://www.arduino.cc/" title="Arduino">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" />
-</a>
-<a href="https://www.arm.com/" title="ARM Cortex">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Arm_logo_blue_150LG.svg" width="40" height="40" />
-</a>
-<a href="https://www.st.com/" title="STM32">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/STMicroelectronics_logo.svg/2560px-STMicroelectronics_logo.svg.png" width="80" height="40" />
-</a>
-<a href="https://www.espressif.com/" title="ESP32">
-  <img src="https://avatars.githubusercontent.com/u/9460735?s=200&v=4" width="40" height="40" />
-</a>
 
+**Programming Languages:**  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-03599C?style=for-the-badge&logo=c&logoColor=white)
+
+**Microcontrollers & Platforms:**  
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ARM Cortex](https://img.shields.io/badge/ARM_Cortex-0091BD?style=for-the-badge&logoColor=white)
+![AVR](https://img.shields.io/badge/AVR-ED1C24?style=for-the-badge&logoColor=white)
+
+**Development & Simulation Tools:**  
+![Proteus](https://img.shields.io/badge/Proteus-1C79B8?style=for-the-badge&logoColor=white)
+![Keil](https://img.shields.io/badge/Keil_uVision-005FAD?style=for-the-badge&logoColor=white)
+
+**Skills:**
+- 🔧 AVR/ARM Drivers Development
+- 🏗️ Microcontroller Architecture (STM32F103, ESP32)
+- ⚡ Hardware Interfacing & Circuit Design
+- 🔄 RTOS (Real-Time Operating Systems)
+- 📡 IoT Communication Protocols (UART, SPI, I2C, Wi-Fi)
+- 🛡️ Bootloader Development (FOTA)
+- 🖥️ Circuit Simulation with Proteus
 
 
 ### **Development Tools**
