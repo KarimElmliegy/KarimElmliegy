@@ -15,7 +15,7 @@
 <br>
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karim%20Ayman-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karim-ayman-a3050516a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karim-ayman-a3050516a/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KarimElmliegy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karim.ayman.kemo@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram)](https://t.me/spxd007)
