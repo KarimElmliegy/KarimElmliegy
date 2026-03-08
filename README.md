@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&color=0A66C2&center=true&vCenter=true&width=700&lines=Hi+I'm+Karim+Ayman;Full+Stack+Developer;JavaScript+%7C+React+%7C+Node.js;Welcome+to+my+GitHub+Profile" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&color=0A66C2&center=true&vCenter=true&width=700&lines=Hi+I'm+Karim+Ayman;Full+Stack+Developer;Welcome+to+my+GitHub+Profile" />
 </div>
 
 # Karim Ayman Elmliegy
