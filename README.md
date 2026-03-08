@@ -77,19 +77,19 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-```dart
+```js
 // All tools organized
 
 class Skills extends KarimAyman {
 
-  const stack = {
-    "Backend"      : { "C#", ".NET", "EF Core", "SQL Server", "PostgreSQL", "Firebase", "SQLite" },
-    "Frontend"     : { "HTML", "CSS", "JavaScript", "jQuery", "Bootstrap", "Tailwind" },
-    "Embedded"     : { "C", "C++", "Embedded C", "STM32", "ESP32", "Arduino", "ARM", "AVR" },
-    "Protocols"    : { "UART", "SPI", "I2C", "Wi-Fi", "RTOS", "OTA/FOTA" },
-    "DevTools"     : { "Git", "VS Code", "Visual Studio", "Keil", "Proteus" },
-    "Platforms"    : { "GNU/Linux", "Windows", "Red Hat" },
-    "Design"       : { "Figma", "Photoshop", "Gimp" },
+  stack = {
+    Backend  : [ "C#", ".NET", "EF Core", "SQL Server", "PostgreSQL", "Firebase", "SQLite" ],
+    Frontend : [ "HTML", "CSS", "JavaScript", "jQuery", "Bootstrap", "Tailwind" ],
+    Embedded : [ "C", "C++", "Embedded C", "STM32", "ESP32", "Arduino", "ARM", "AVR" ],
+    Protocols: [ "UART", "SPI", "I2C", "Wi-Fi", "RTOS", "OTA/FOTA" ],
+    DevTools : [ "Git", "VS Code", "Visual Studio", "Keil", "Proteus" ],
+    Platforms: [ "GNU/Linux", "Windows", "Red Hat" ],
+    Design   : [ "Figma", "Photoshop", "Gimp" ],
   };
 
 }
