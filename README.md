@@ -37,30 +37,6 @@
 
 <hr>
 
-## 👋 About Me
-
-```dart
-class About extends Me {
-
-  const identity = {
-    "name"       : "Karim Ayman Elmliegy",
-    "role"       : ["Full Stack .NET Developer", "Embedded Systems Engineer"],
-    "location"   : "Cairo, Egypt 🇪🇬",
-    "education"  : "Electronics & Communication Engineering — Mansoura University (2024)",
-    "currently"  : ["Backend Developer @ Route", "ITI 9-month Pro Dev Program"],
-    "focus"      : "BI-infused CRM · Full Stack .NET · AI-assisted Development",
-    "gpa"        : "Graduation Project FOTA — Grade: A+ ⭐",
-  };
-
-  const personality = {
-    "learning"   : "Frappe, Microservices, Cloud Deployment",
-    "loves"      : "GNU/Linux, PC Building, Movies, IoT",
-    "fun_fact"   : "Banging your head against a wall for 1 hour burns 150 calories 💀",
-  };
-
-}
-```
-
 - 🎓 **Education:** Electronics and Communication Engineering — Mansoura University (2024)
 - 💼 **Currently:** Backend Developer at Route & ITI Student
 - 🚀 **Graduation Project:** FOTA (Firmware Over-The-Air) — Grade: **A+**
@@ -177,28 +153,6 @@ class Skills extends KarimAyman {
 ### 🔧 Embedded Systems Portfolio
 - **Traffic Light Control System** — Real-time traffic management simulation
 - **ARM Calculator** — Calculator application on STM32 (Cortex-M3)
-
-<hr>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
-<details>
-  <summary>More stats</summary>
-  <img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
-</details>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=KarimElmliegy&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimElmliegy&layout=compact&theme=radical" alt="Top Languages" width="40%" />
-
-</div>
 
 <hr>
 
