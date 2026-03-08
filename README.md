@@ -30,9 +30,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram)](https://t.me/spxd007)
 
 <br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=KarimElmliegy&style=flat&color=orange&label=PROFILE+VIEWS)
-
 </div>
 
 <hr>
