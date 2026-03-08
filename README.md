@@ -1,165 +1,243 @@
+<div align="center">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="55%"/>
+
+<br>
+
 # Karim Ayman Elmliegy
 
-<img src="images/me.jpg" align="right" width="200" />
+### Full Stack .NET Developer · Embedded Systems Engineer · Cairo, Egypt 🇪🇬
 
-My name is **Karim Ayman Elmliegy**, a Full Stack .NET Developer and Embedded Systems Engineer based in Cairo, Egypt. I specialize in building scalable backend solutions using .NET technologies and developing embedded systems for IoT applications.
+<br>
 
-I'm currently enrolled in the **Information Technology Institute (ITI)** 9-month Professional Development Program, focusing on BI-infused CRM and Full Stack .NET development. I'm passionate about AI-assisted development and creating intelligent workforce solutions.
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="35%"/>
 
-🎓 **Education:** Electronics and Communication Engineering - Mansoura University (2024)  
-💼 **Currently:** Backend Developer at Route & ITI Student  
-🚀 **Graduation Project:** FOTA (Firmware Over-The-Air) - Grade: A+
+<br>
 
----
+<details>
+<summary><strong>🎧 Busy coding & vibing to:</strong></summary>
+<br>
 
-## 📫 **Connect With Me:**
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
+
+</details>
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karim-ayman)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KarimElmliegy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karim.ayman.kemo@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram)](https://t.me/spxd007)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=KarimElmliegy&style=flat&color=orange&label=PROFILE+VIEWS)
+
+</div>
+
+<hr>
+
+## 👋 About Me
+
+```dart
+class About extends Me {
+
+  const identity = {
+    "name"       : "Karim Ayman Elmliegy",
+    "role"       : ["Full Stack .NET Developer", "Embedded Systems Engineer"],
+    "location"   : "Cairo, Egypt 🇪🇬",
+    "education"  : "Electronics & Communication Engineering — Mansoura University (2024)",
+    "currently"  : ["Backend Developer @ Route", "ITI 9-month Pro Dev Program"],
+    "focus"      : "BI-infused CRM · Full Stack .NET · AI-assisted Development",
+    "gpa"        : "Graduation Project FOTA — Grade: A+ ⭐",
+  };
+
+  const personality = {
+    "learning"   : "Frappe, Microservices, Cloud Deployment",
+    "loves"      : "GNU/Linux, PC Building, Movies, IoT",
+    "fun_fact"   : "Banging your head against a wall for 1 hour burns 150 calories 💀",
+  };
+
+}
+```
+
+- 🎓 **Education:** Electronics and Communication Engineering — Mansoura University (2024)
+- 💼 **Currently:** Backend Developer at Route & ITI Student
+- 🚀 **Graduation Project:** FOTA (Firmware Over-The-Air) — Grade: **A+**
+- 🌱 **Learning:** Frappe, Microservices, Docker, Azure, React, Angular
+- 🐧 I like exploring **GNU/Linux**
+- ⚡ **Fun fact:** Banging your head against a wall for one hour burns **150 calories**
+
+<hr>
+
+## 🚀 Tools I Use
+
+![tools](https://img.shields.io/badge/-%F0%9F%9A%80%20Backend%20%26%20Full%20Stack-blue)
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+
+![frontend](https://img.shields.io/badge/-%F0%9F%96%A5%EF%B8%8F%20Frontend-teal)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+![embedded](https://img.shields.io/badge/-%F0%9F%94%A7%20Embedded%20Systems-orange)
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-03599C?style=flat&logo=c&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![ARM Cortex](https://img.shields.io/badge/ARM_Cortex-0091BD?style=flat&logoColor=white)
+![AVR](https://img.shields.io/badge/AVR-ED1C24?style=flat&logoColor=white)
+
+![other](https://img.shields.io/badge/-%F0%9F%9B%A0%EF%B8%8F%20Dev%20Tools-lightgrey)
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![Keil](https://img.shields.io/badge/Keil_uVision-005FAD?style=flat&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-1C79B8?style=flat&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+```dart
+// All tools organized
+
+class Skills extends KarimAyman {
+
+  const stack = {
+    "Backend"      : { "C#", ".NET", "EF Core", "SQL Server", "PostgreSQL", "Firebase", "SQLite" },
+    "Frontend"     : { "HTML", "CSS", "JavaScript", "jQuery", "Bootstrap", "Tailwind" },
+    "Embedded"     : { "C", "C++", "Embedded C", "STM32", "ESP32", "Arduino", "ARM", "AVR" },
+    "Protocols"    : { "UART", "SPI", "I2C", "Wi-Fi", "RTOS", "OTA/FOTA" },
+    "DevTools"     : { "Git", "VS Code", "Visual Studio", "Keil", "Proteus" },
+    "Platforms"    : { "GNU/Linux", "Windows", "Red Hat" },
+    "Design"       : { "Figma", "Photoshop", "Gimp" },
+  };
+
+}
+```
+
+<hr>
+
+## 🚀 Featured Projects
+
+### 🤖 TalentFlow AI — ITI Graduation Project
+**Tech Stack:** `C#` · `.NET` · `SQL` · `EF Core` · `AI/ML`
+
+> An AI-powered Workforce Intelligence Platform that revolutionizes employee-project matching in large enterprises.
+
+| Feature | Description |
+|---|---|
+| 🎯 Smart Resource Matching | Automatically ranks candidates for roles based on skills, experience & availability |
+| 🔄 Dynamic Reallocation | Detects idle employees and suggests optimal role transitions |
+| 📊 Skill Gap Analysis | Personalized training recommendations |
+| 🛤️ Career Path Intelligence | AI-driven growth suggestions for employees |
 
 ---
 
-## 💻 **Currently Working With:**
+### 🏫 ITI Examination System
+**Tech Stack:** `C#` · `.NET` · `SQL` · `EF Core`
 
-### **Backend & Full Stack Development**
-<a href="https://dotnet.microsoft.com/" title=".NET"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" /></a>
-<a href="http://csharp.net/" title="C#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" /></a>
-<a href="https://www.microsoft.com/en-us/sql-server" title="SQL Server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" /></a>
-<a href="https://learn.microsoft.com/en-us/ef/core/" title="Entity Framework Core"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" /></a>
+> A centralized examination management platform serving ITI branches across Egypt.
 
-### **Frontend Technologies**
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" /></a>
-<a href="https://jquery.com/" title="jQuery"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="40" height="40" /></a>
-<a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" /></a>
-<a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" /></a>
-
-### **Embedded Systems**
-
-**Programming Languages:**  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded_C-03599C?style=for-the-badge&logo=c&logoColor=white)
-
-**Microcontrollers & Platforms:**  
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ARM Cortex](https://img.shields.io/badge/ARM_Cortex-0091BD?style=for-the-badge&logoColor=white)
-![AVR](https://img.shields.io/badge/AVR-ED1C24?style=for-the-badge&logoColor=white)
-
-**Development & Simulation Tools:**  
-![Proteus](https://img.shields.io/badge/Proteus-1C79B8?style=for-the-badge&logoColor=white)
-![Keil](https://img.shields.io/badge/Keil_uVision-005FAD?style=for-the-badge&logoColor=white)
-
-**Skills:**
-- 🔧 AVR/ARM Drivers Development
-- 🏗️ Microcontroller Architecture (STM32F103, ESP32)
-- ⚡ Hardware Interfacing & Circuit Design
-- 🔄 RTOS (Real-Time Operating Systems)
-- 📡 IoT Communication Protocols (UART, SPI, I2C, Wi-Fi)
-- 🛡️ Bootloader Development (FOTA)
-- 🖥️ Circuit Simulation with Proteus
-
-
-### **Development Tools**
-<a href="https://git-scm.com/" title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" /></a>
-<a href="https://github.com/" title="GitHub"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" /></a>
-<a href="https://code.visualstudio.com/" title="VS Code"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" /></a>
-<a href="https://visualstudio.microsoft.com/" title="Visual Studio"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" /></a>
-
-### **Systems & Operations**
-<a href="https://www.linux.org/" title="Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" /></a>
-<a href="https://www.redhat.com/" title="Red Hat"><img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" width="40" height="40" /></a>
-
----
-
-## 🚀 **Featured Projects**
-
-### **TalentFlow AI** – ITI Graduation Project
-**Tech Stack:** C#, .NET, SQL, EF Core, AI/ML
-
-An AI-powered Workforce Intelligence Platform that revolutionizes employee-project matching in large enterprises.
-
-**Key Features:**
-- 🎯 **Smart Resource Matching Engine** - Automatically ranks candidates for project roles based on skills, experience, and availability
-- 🔄 **Dynamic Reallocation System** - Detects idle employees and suggests optimal role transitions
-- 📊 **Skill Gap Analysis** - Provides personalized training recommendations
-- 🛤️ **Career Path Intelligence** - AI-driven growth suggestions for employees
-
-### **ITI Examination System**
-**Tech Stack:** C#, .NET, SQL, EF Core
-
-A centralized examination management platform serving ITI branches across Egypt.
-
-**Features:**
 - 👥 Role-Based Access Control (Students, Instructors, Branch Managers, Admins)
 - 🏢 Multi-branch architecture
 - 🔒 Secure data handling and exam controls
 - 📋 Comprehensive exam management workflow
 
-### **FOTA (Firmware Over-The-Air)** – Graduation Project ⭐ Grade: A+
-**Tech Stack:** C, Embedded C, ESP32, STM32F103
+---
 
-Remote firmware update system for microcontrollers with secure bootloader implementation.
+### 📡 FOTA (Firmware Over-The-Air) — ⭐ Grade: A+
+**Tech Stack:** `C` · `Embedded C` · `ESP32` · `STM32F103`
 
-**Highlights:**
+> Remote firmware update system for microcontrollers with secure bootloader implementation.
+
 - 📡 Wireless firmware updates via ESP32
 - 🛡️ Custom secure bootloader
 - 🔧 STM32 integration with OTA capabilities
-- ✅ Achieved A+ grade
-
-### **Embedded Systems Portfolio**
-- **Traffic Light Control System** - Real-time traffic management simulation
-- **ARM Calculator** - Calculator application on STM32 (Cortex-M3)
 
 ---
 
-## 📚 **Learning & Exploring**
+### 🔧 Embedded Systems Portfolio
+- **Traffic Light Control System** — Real-time traffic management simulation
+- **ARM Calculator** — Calculator application on STM32 (Cortex-M3)
 
-<a href="https://www.docker.com/" title="Docker"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" /></a>
-<a href="https://kubernetes.io/" title="Kubernetes"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" /></a>
-<a href="https://azure.microsoft.com/" title="Azure"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40" /></a>
-<a href="https://reactjs.org/" title="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" /></a>
-<a href="https://angular.io/" title="Angular"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40" /></a>
+<hr>
 
----
+## 📊 GitHub Stats
 
-## 🏆 **Certifications**
+<div align="center">
 
-- 📜 **Udacity** - Embedded Systems Developer Nanodegree
-- 💻 **HackerRank** - Problem Solving Certificate
-- 🎓 **ITI** - 9-month Professional Development Program (In Progress)
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
----
+<details>
+  <summary>More stats</summary>
+  <img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
+</details>
 
-## 📊 **GitHub Stats**
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KarimElmliegy&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=KarimElmliegy&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimElmliegy&layout=compact&theme=radical" alt="Top Languages" width="40%" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimElmliegy&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</div>
 
----
+<hr>
 
-## 💡 **Core Competencies**
+## 💡 Core Competencies
+
 ```text
 Backend Development    ███████████████████░   95%
 Embedded Systems       ██████████████████░░   90%
 Frontend Development   ████████████████░░░░   80%
-AI Integration         ███████████████░░░░░   75%
 Database Design        ████████████████░░░░   80%
+AI Integration         ███████████████░░░░░   75%
 System Architecture    ███████████████░░░░░   75%
 ```
 
----
+<hr>
 
-## 🎯 **Current Focus**
+## 🏆 Certifications
+
+- 📜 **Udacity** — Embedded Systems Developer Nanodegree
+- 💻 **HackerRank** — Problem Solving Certificate
+- 🎓 **ITI** — 9-month Professional Development Program *(In Progress)*
+
+<hr>
+
+## 📚 Currently Learning
+
+<div align="center">
+
+<a href="https://www.docker.com/" title="Docker"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" /></a>&nbsp;
+<a href="https://kubernetes.io/" title="Kubernetes"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" /></a>&nbsp;
+<a href="https://azure.microsoft.com/" title="Azure"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40" /></a>&nbsp;
+<a href="https://reactjs.org/" title="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" /></a>&nbsp;
+<a href="https://angular.io/" title="Angular"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40" /></a>
+
+</div>
+
+<hr>
+
+## 🎯 Current Focus
 
 - 🔨 Building enterprise-grade CRM solutions with BI integration
 - 🤖 Exploring AI/ML integration in .NET applications
@@ -167,19 +245,26 @@ System Architecture    ███████████████░░░░
 - 📖 Mastering microservices architecture and cloud deployment
 - 🌱 Contributing to open-source .NET projects
 
----
+<hr>
 
-## 📞 **Get In Touch**
+## The Developer Code Cycle
 
-📧 **Email:** karim.ayman.kemo@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/karim-ayman](https://linkedin.com/in/karim-ayman)  
+<div align="center">
 
----
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KarimElmliegy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+*Broken → Fixed → How does this even work?*
+
+<br>
+
+<p>
+  <i>⭐️ From <a href="https://github.com/KarimElmliegy">KarimElmliegy</a> — Let's build something amazing together!</i>
 </p>
 
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/KarimElmliegy">KarimElmliegy</a> - Let's build something amazing together!</i>
-</p>
+<img src="https://komarev.com/ghpvc/?username=KarimElmliegy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
+</div>
