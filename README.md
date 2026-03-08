@@ -199,12 +199,6 @@ System Architecture    ███████████████░░░░
 
 *Broken → Fixed → How does this even work?*
 
-<br>
-
-<p>
-  <i>⭐️ From <a href="https://github.com/KarimElmliegy">KarimElmliegy</a> — Let's build something amazing together!</i>
-</p>
-
 <img src="https://komarev.com/ghpvc/?username=KarimElmliegy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
