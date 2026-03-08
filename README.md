@@ -198,7 +198,4 @@ System Architecture    ███████████████░░░░
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
 
 *Broken → Fixed → How does this even work?*
-
-<img src="https://komarev.com/ghpvc/?username=KarimElmliegy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-
 </div>
